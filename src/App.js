@@ -5,9 +5,7 @@ import From from './components/Form'
 
 
 function App() {
-      {/* <Stats 
-        stats={data[0].stats}
-      /> */}
+
   return (
     <div className="App">
       <Header />
