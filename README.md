@@ -1,6 +1,6 @@
 ## An expense tracker with a uniques twist on data entry
 
-### (urrent version incomplete as some display and slider bugs need to be fixed)
+### ***Current version has some display and slider bugs need to be fixed
 
 ### Motivation
 I've always  dremed of having an expense tracker that worked this way. So as y first react app I decided to attempt it.
@@ -16,3 +16,4 @@ I've always  dremed of having an expense tracker that worked this way. So as y f
 - Built for mobile first
 - Local browser storage used for data storage
 
+Live site: [Save Dave Website](https://save-dave.netlify.app/)
