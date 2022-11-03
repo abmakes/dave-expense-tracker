@@ -1,4 +1,4 @@
-## An expense tracker with a uniques twist on data entry
+## An expense tracker with a unique twist on data entry
 
 ### ***Current version has some display and slider bugs need to be fixed
 
