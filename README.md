@@ -3,7 +3,7 @@
 ### ***Current version has some display and slider bugs need to be fixed
 
 ### Motivation
-I've always  dremed of having an expense tracker that worked this way. So as y first react app I decided to attempt it.
+I've always dreamed of having an expense tracker that worked backward from account balance to exspense detail. So as my first react app I decided to attempt it.
 
 ### How it works:
 - Quick and simple
@@ -13,6 +13,7 @@ I've always  dremed of having an expense tracker that worked this way. So as y f
 ### Technical specifications
 - Built using create react app and vanilla CSS
 - The goal was to experiment with forms and sliders
+- Neo-brutalist style was attempted as it seemed a nice fit
 - Built for mobile first
 - Local browser storage used for data storage
 
